@@ -1,0 +1,20 @@
+package desafio;
+
+import java.util.Scanner;
+
+import entities.Rent;
+
+public class ProgramaJava {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+	Rent r = new Rent("Maria", "maria@gmail.com");
+	
+	System.out.println(r);
+		
+
+	}
+
+}

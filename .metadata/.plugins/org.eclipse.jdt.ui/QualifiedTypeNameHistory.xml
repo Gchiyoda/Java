@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="util.Calculator"/>
+    <fullyQualifiedTypeName name="util.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="entidade.Produto"/>
+    <fullyQualifiedTypeName name="entidade.Banco"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
